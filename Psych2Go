@@ -1,334 +1,410 @@
-<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
-<link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=PLD4cyJhQaFwWCnpIHdHwZwzEKeoPwlA3I"/>
-<id>yt:playlist:PLD4cyJhQaFwWCnpIHdHwZwzEKeoPwlA3I</id>
-<yt:playlistId>PLD4cyJhQaFwWCnpIHdHwZwzEKeoPwlA3I</yt:playlistId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>Burnout</title>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2022-05-03T02:13:42+00:00</published>
-<entry>
-<id>yt:video:q8HRGiUeZwc</id>
-<yt:videoId>q8HRGiUeZwc</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>6 Signs You're Depressed, Not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=q8HRGiUeZwc"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-03-03T00:10:47+00:00</published>
-<updated>2025-01-23T08:46:54+00:00</updated>
-<media:group>
-<media:title>6 Signs You're Depressed, Not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/q8HRGiUeZwc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i2.ytimg.com/vi/q8HRGiUeZwc/hqdefault.jpg" width="480" height="360"/>
-<media:description>Have you lost your sense of direction in life and didn’t know what else to do? Do you always feel "lazy", unmotivated, and uninspired? Because we live in such a cutthroat and hypercompetitive society so obsessed with the pursuit of wealth and success, we're likely to suffer from chronic stress. When we constantly overworking ourselves, we're bound to experience some adverse effects on our mental and emotional well-being. But what if your laziness is about more than just emotional burnout? What if it’s already become something much more serious? Watch this to find out. Are you curious about the difference between depression and burnout? We have a video on that too: https://youtu.be/bPSHOlvAlm8 Enjoying our content and want to support us directly? Join our premium subscription for access to our podcast, bonus content, merch discounts and more! Visit www.psych2go.supercast.com As a quick disclaimer, we wanted to remind our viewers that the depression signs discussed in this video should not be used to diagnose anyone with depression. If you or someone you know is struggling with depression, please reach out to a mental health professional who can help. Writer: Chloe Avenasa Script Manager: Kelly Soong VO: Amanda Silvera Animator: Hannah Roldan YouTube Manager: Cindy Cheong Reference: http://bit.ly/3dnCYAr Join this channel to get access to perks: https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA/join Would you like to animate for the team? Check out this: https://psych2go.net/interested-in-animating-for-pych2go-faq/ Interested in writing for psych2go? Check out: https://psych2go.net/script-writing-position-faqs/ #depression #psych2go</media:description>
-<media:community>
-<media:starRating count="461583" average="5.00" min="1" max="5"/>
-<media:statistics views="11624561"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:bPSHOlvAlm8</id>
-<yt:videoId>bPSHOlvAlm8</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>Burnout vs Depression: Which One Are You?</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=bPSHOlvAlm8"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-01-31T08:59:59+00:00</published>
-<updated>2025-01-23T13:40:11+00:00</updated>
-<media:group>
-<media:title>Burnout vs Depression: Which One Are You?</media:title>
-<media:content url="https://www.youtube.com/v/bPSHOlvAlm8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i3.ytimg.com/vi/bPSHOlvAlm8/hqdefault.jpg" width="480" height="360"/>
-<media:description>Has your burnout led to your depression? People who are burned out can become depressed. It can start as burnout and progress to depression. Are you curious whether you're burnout, depressed or both? Disclaimer: This video is for educational purposes only. Please do not self-diagnose. If you suspect you might be suffering from burnout or depression, it's best to seek professional help. 1. Depression is a mental disorder 1:15 2. Depression is more general 2:04 3. Depression doesn't always have a trigger 2:41 4. Depression erodes your self esteem 3:08 5. Depersonalization is common in burnout 3:45 6. Burnout develops in stages 4:22 7. Burnout is easier to treat 5:00 By: K.T What to learn more about the signs of burnout? Check out this video: https://youtu.be/LQXia0k3J-w #depression #burnout #psych2go Writer: Chloe Avenasa Script Editor: Rida Batool Script Manager: Kelly Soong VO: Lily Hu Animator: Alex Pacheco YouTube Manager: Cindy Cheong Reference: https://pastebin.com/qjX35HrE Would you like to support our channel to make more content? Join our membership for more perks! https://bit.ly/2V2MM8M If you have any topic requests or stories to share with us, feel free to email us at editorial@psych2go.net</media:description>
-<media:community>
-<media:starRating count="39689" average="5.00" min="1" max="5"/>
-<media:statistics views="925600"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:GieO8uI58tM</id>
-<yt:videoId>GieO8uI58tM</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>7 Signs You're Dealing With Burnout</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=GieO8uI58tM"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-09-29T03:23:42+00:00</published>
-<updated>2025-01-24T05:01:14+00:00</updated>
-<media:group>
-<media:title>7 Signs You're Dealing With Burnout</media:title>
-<media:content url="https://www.youtube.com/v/GieO8uI58tM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i4.ytimg.com/vi/GieO8uI58tM/hqdefault.jpg" width="480" height="360"/>
-<media:description>Do you feel drained? Do feel less accomplished at work or school? Are you feeling unsure and apprehensive that you may be experiencing burnout? Here's the list of symptoms that can be helpful for you. Disclaimer: This video is for informative purposes only and is not intended to diagnose or treat any condition. Please reach out to a qualified mental health professional if you are struggling. Are you burnt out or lazy? Watch this video to find out: https://youtu.be/MLuJ249WnkE Writer: Syazwana Amirah Script Editor: Sid Thompson Script Manager: Kelly Soong VO: Amanda Silvera Animator: Billie YouTube Manager: Cindy Cheong REFERENCES Cafasso, J., & Legg, T. J. (2019, April 9). Emotional Exhaustion: What It Is and How to Treat It. Retrieved May 11, 2021, from www.healthline.com/health/emotional-exhaustion Carter, S. B. (2013, November 26). The tell tale signs of burnout … do you have them? Retrieved May 11, 2021, from www.psychologytoday.com/intl/blog/high-octane-women/201311/the-tell-tale-signs-burnout-do-you-have-them Fraga, J., & Legg, T. J. (2019, May 18). A Guide to Burnout. Retrieved May 11, 2021, from www.healthline.com/health/tips-for-identifying-and-preventing-burnout Gloria, A. M., & Ho, T. A. (2003). Environmental, social, and psychological experiences of Asian American undergraduates: Examining issues of academic persistence. Journal of Counseling and Development, 81, 93– 105. Hwang, H. J. (2006). A study on the stress and its relative effects of variables among children and adolescents. Journal of Elementary Education, 19, 193– 215. Lee, M. Y., & Lee, S. M. (2018). The effects of psychological maladjustments on predicting developmental trajectories of academic burnout. School Psychology International, 39, 217– 233. Salmela‐Aro, K., Kiuru, N., Pietikäinen, M., & Jokela, J. (2008). Does school matter? The role of school context in adolescents’ school‐related burnout. European Psychologist, 13, 12– 23. Scott, E., & Gans, S. (2020, March 20). How to watch for signs of burnout in your life. Retrieved May 11, 2021, from www.verywellmind.com/stress-and-burnout-symptoms-and-causes-3144516</media:description>
-<media:community>
-<media:starRating count="12638" average="5.00" min="1" max="5"/>
-<media:statistics views="202276"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:rt2IRTkE3Ts</id>
-<yt:videoId>rt2IRTkE3Ts</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>8 Habits That Lead to Emotional Burnout</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=rt2IRTkE3Ts"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2022-02-16T08:34:12+00:00</published>
-<updated>2025-01-23T06:48:03+00:00</updated>
-<media:group>
-<media:title>8 Habits That Lead to Emotional Burnout</media:title>
-<media:content url="https://www.youtube.com/v/rt2IRTkE3Ts?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i3.ytimg.com/vi/rt2IRTkE3Ts/hqdefault.jpg" width="480" height="360"/>
-<media:description>What is burnout? Do you know what emotional burnout is? Emotional burnout happens when we feel too tired to think, process or do anything. Emotional burnout occurs as a result of mental or physical fatigue or both. Burnout can happen when we are at work, studying, with our family, or even friends. Whether your burnout is relationship burnout, student burnout, or workplace burnout, there are common toxic habits that lead to them. Watch this video to see if you are guilty of any of these behaviour. Disclaimer: This video is purely for educational purposes only. It does not constitute medical advice or diagnosis. Please consult with a professional healthcare provider Writer: Max Gustavo Script Editor: Isadora Ho Script Manager: Kelly Soong Voice: Amanda Silvera www.youtube.com/AmandaSilvera Animator: Marissa Rose aka TheBoredEnthusiast (https://youtube.com/channel/UCd6izK93Y7rBC60IJL9Hdeg) YouTube Manager: Cindy Cheong</media:description>
-<media:community>
-<media:starRating count="9860" average="5.00" min="1" max="5"/>
-<media:statistics views="158485"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:RZshKrP3PEw</id>
-<yt:videoId>RZshKrP3PEw</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>5 Causes of Emotional Burnout</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=RZshKrP3PEw"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-07-10T23:06:00+00:00</published>
-<updated>2025-01-24T18:19:52+00:00</updated>
-<media:group>
-<media:title>5 Causes of Emotional Burnout</media:title>
-<media:content url="https://www.youtube.com/v/RZshKrP3PEw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i3.ytimg.com/vi/RZshKrP3PEw/hqdefault.jpg" width="480" height="360"/>
-<media:description>Are you feeling burn out and don't know why? If you’re burned out, it’s actually hard to put your finger on what you’re seeking so that you can emerge from the muddle of stress and feelings. Recovering from burnout can be difficult if we don't know the root cause of the problem. To help you with that, we've listed a few common reasons that can cause emotional burnout. Check out our video on the difference between burnout and depression: https://youtu.be/bPSHOlvAlm8 Writer: Debi T. Script Editor: Rida Batool Script Manager: Kelly Soong VO: Amanda Silvera Animator: Nayeli Meneses YouTube Manager: Cindy Cheong References: Deen, S. (2020). BTS Army rally round Jin as he releases solo song Abyss after experiencing ‘burn out.’ Metro News…but not as you know it. Retrieved from www.metro.co.uk/2020/12/03/bts-jin-solo-song-abyss-burn-out-army-support-13696363/ HelpGuide. (2020). Stress Management: Burnout Prevention and Treatment. Retrieved from www.helpguide.org/articles/stress/burnout-prevention-and-recovery.htm MacKay, J. (2020). How to deal with burnout: Signs, symptoms, and strategies for getting you back on track after burning out. RescueTime:blog. Retrieved from www.blog.rescuetime.com/burnout-syndrome-recovery/ Raypole, C. (2020). Burnout Recovery: 11 Strategies to Help You Reset. Healthline. Retrieved from www.healthline.com/health/mental-health/burnout-recovery Instagram: https://www.instagram.com/psych2go_tips/ Discord: https://discord.gg/EsWEvrJ Join this channel to get access to perks: https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA/join Want to animate for the team? Check out this: https://psych2go.net/interested-in-animating-for-pych2go-faq/ Interested in writing for psych2go? Check out: https://psych2go.net/script-writing-position-faqs/ We're also on a mission to make mental health accessible around the world. Check out our content available in other languages translated by fans and viewers like you :) 1) Psych2Go Kr - https://www.youtube.com/channel/UCQh9DSw0L23tNULgxussrYg 심리툰 Psych2Go Korea https://www.youtube.com/channel/UCNTGv5tBhqxIN3jAHbhumeQ 2) Vietnamese - https://www.youtube.com/channel/UCe-DaRWfYRVfcdasozr874A 3) German - https://www.youtube.com/c/Psych2GoDE/videos 4) Indonesian - https://www.youtube.com/channel/UCwc1rtdEJDr-VKQT5bijwwQ 5) Russian - youtube.com/channel/UC4vMpG7hqxT0GCx2YAIF7rA/ 6) Vietnamese - https://www.youtube.com/channel/UCe-DaRWfYRVfcdasozr874A 7) Español - https://www.youtube.com/channel/UCl5OsVzh4_Xf8fSmxhOMP5Q 8) Hindi - https://www.youtube.com/channel/UCcesO-EWK1l6dF2QgB9aUkw</media:description>
-<media:community>
-<media:starRating count="12185" average="5.00" min="1" max="5"/>
-<media:statistics views="188133"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:YyjBKqsJqAo</id>
-<yt:videoId>YyjBKqsJqAo</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>How to Deal with Burnout</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=YyjBKqsJqAo"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2022-03-10T06:14:03+00:00</published>
-<updated>2025-01-23T01:53:51+00:00</updated>
-<media:group>
-<media:title>How to Deal with Burnout</media:title>
-<media:content url="https://www.youtube.com/v/YyjBKqsJqAo?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i2.ytimg.com/vi/YyjBKqsJqAo/hqdefault.jpg" width="480" height="360"/>
-<media:description>Burnout at work or burnout at school, or burnout at home, is a type of emotional exhaustion that can lead a person to feel depressed, stressed, or physically tired. If you're looking for tips on how to deal with burnout at work, how to deal with emotional exhaustion, or how to deal with burnout in life, you can try to start by recognizing the things that causes you to burnout. Are you burnt out or lazy? Watch this video: https://youtu.be/MLuJ249WnkE Writer: Sara Del Villar Script Editor: Denise Ding & Dawn Tan Script Manager: Kelly Soong Voice: Amanda Silvera www.youtube.com/amandasilvera Animator: Hugo Junstrand (New Animator) YouTube Manager: Cindy Cheong Canavan, C. (2021, November 3). Why you need to learn how to complete the ‘stress cycle’. Women’s Health. Retrieved from www.womenshealthmag.com/uk/health/mental-health/a27098268/how-to-de-stress/.   Montañez, R. (2019, August 19). 3 essential tactics for conquering sleep deprivation and burnout. Forbes. Retrieved from www.forbes.com/sites/rachelmontanez/2019/08/18/3-essential-tactics-for-conquering-sleep-deprivation-andburnout/.  Kuncheva, M. (2021, February 25). How to increase my happy hormones and prevent burnout. Digiburn. Retrieved from digiburn.health/how-to-increase-my-happy-hormones-and-prevent-burnout/.</media:description>
-<media:community>
-<media:starRating count="26428" average="5.00" min="1" max="5"/>
-<media:statistics views="560639"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:CGGHEHAX51U</id>
-<yt:videoId>CGGHEHAX51U</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>5 Signs It's Burnout, not Laziness (@Naphia's version)</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=CGGHEHAX51U"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-09-20T06:06:51+00:00</published>
-<updated>2025-01-21T09:34:45+00:00</updated>
-<media:group>
-<media:title>5 Signs It's Burnout, not Laziness (@Naphia's version)</media:title>
-<media:content url="https://www.youtube.com/v/CGGHEHAX51U?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i4.ytimg.com/vi/CGGHEHAX51U/hqdefault.jpg" width="480" height="360"/>
-<media:description>The distinction between laziness and burnout actually isn't always easy to make; burnout is defined as "a negative state of emotional, physical, and mental exhaustion caused by chronic stress and an inability to cope with it." If you are experiencing burnout, here are a few tell-tale signs that it isn't actually laziness, but burnout. #burnout #laziness #version2 DISCLAIMER This video is for educational purposes and is based on personal opinions. This video is not a substitute for professional advice, but for general guidance. Please do not take this feedback as an attack on your character. This video was meant to be a self-improvement guide for those of you who have been feeling a little stuck. We advise you to always listen to your intuition and always do what is right for you. Writer: Chloe Avenasa Script Editor: Rida Batool Script Manager: Kelly Soong VO:: Amanda Silvera Animator: @Naphia YouTube Manager: Cindy Cheong References: Korunka, C., Tement, S., Zdrehus, C., & Borza, A. (2010). Burnout: Definition, recognition and prevention approaches. Family & Community Health: The Journal of Health Promotion & Maintenance, 43(3), 311-318. American Psychological Association (2013). Diagnostic and Statistical Manual of Mental Disorders – 5th Edition. APA Publishing; Washington, DC. Leiter, M. P., Bakker, A. B., & Maslach, C. (Eds.). (2014). Burnout at work: A psychological perspective. Psychology Press. Greenglass, E., Fiksenbaum, L., & Burke, R. J. (1996). Components of social support, buffering effects and burnout: Implications for psychological functioning. Anxiety, stress, and coping, 9(3), 185-197. Cropanzano, R., Rupp, D. E., & Byrne, Z. S. (2003). The relationship of emotional exhaustion to work attitudes, job performance, and organizational citizenship behaviors. Journal of Applied psychology, 88(1), 160.</media:description>
-<media:community>
-<media:starRating count="16286" average="5.00" min="1" max="5"/>
-<media:statistics views="230192"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:FmYY_-OkgdY</id>
-<yt:videoId>FmYY_-OkgdY</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>6 Signs You're Burnout, not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=FmYY_-OkgdY"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-08-19T19:42:39+00:00</published>
-<updated>2025-01-27T00:43:18+00:00</updated>
-<media:group>
-<media:title>6 Signs You're Burnout, not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/FmYY_-OkgdY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i3.ytimg.com/vi/FmYY_-OkgdY/hqdefault.jpg" width="480" height="360"/>
-<media:description>If you're feeling really burnout or emotionally drained lately, this one is for you. #shorts #burnout #liveversion Connect with us here: https://www.instagram.com/yumiitsui/ Send us an email here: yumika@psych2go.net</media:description>
-<media:community>
-<media:starRating count="8159" average="5.00" min="1" max="5"/>
-<media:statistics views="107144"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:CDvnw8eOjFQ</id>
-<yt:videoId>CDvnw8eOjFQ</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>7 Signs of Emotional Burnout</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=CDvnw8eOjFQ"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2019-12-26T08:56:15+00:00</published>
-<updated>2025-01-24T15:28:38+00:00</updated>
-<media:group>
-<media:title>7 Signs of Emotional Burnout</media:title>
-<media:content url="https://www.youtube.com/v/CDvnw8eOjFQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i4.ytimg.com/vi/CDvnw8eOjFQ/hqdefault.jpg" width="480" height="360"/>
-<media:description>Emotional burnout is defined as a negative state of mental health that may manifest physical, behavioral, and cognitive symptoms that impair our normal functioning and cause us severe distress. The holidays or new year can be an easy time to feel emotionally burn out. Are you looking for advice on how to avoid burnout? Burnout could be workplace burnout, student burnout, family burnout, passion related burnout to relationship burnout. If you notice any of the following emotional burnout symptoms, like depression, lack of motivation, or feeling more anxious than usual, then maybe it's time to assess whether you need a break or not. Share this video with someone who might need it! Suggested video(s): Types of Highly Sensitive People https://youtu.be/ys6zzEqHEg4 6 Signs You May Have Depression and not even know it https://youtu.be/5oVEQpu65MM Writer: Chloe Avanasa Script Editor: Kelly Soong VO: Amanda Silvera Animator: Krystal YouTube Manager: Cindy Cheong Want to collaborate with us on a topic? Email Yumika@psych2go.net</media:description>
-<media:community>
-<media:starRating count="100476" average="5.00" min="1" max="5"/>
-<media:statistics views="2313131"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:SZvX2nTnQyU</id>
-<yt:videoId>SZvX2nTnQyU</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>6 Signs You’re Tired, Not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=SZvX2nTnQyU"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2022-02-10T20:41:59+00:00</published>
-<updated>2025-01-24T12:41:19+00:00</updated>
-<media:group>
-<media:title>6 Signs You’re Tired, Not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/SZvX2nTnQyU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i4.ytimg.com/vi/SZvX2nTnQyU/hqdefault.jpg" width="480" height="360"/>
-<media:description>There’s actually a lot of overlap between laziness and burnout that can make it difficult to differentiate between the two. Burnout is defined as “a negative state of emotional, physical, and mental exhaustion caused by excessive stress and an inability to cope with it.” To educate ourselves and better understand the nature of burnout, especially when we ourselves are at risk, here are a few tell-tale signs that what you’re experiencing right now isn’t actually laziness, but burnout. Have you ever wonder about the differences between burnout and depression? Watch this video: https://youtu.be/bPSHOlvAlm8 DISCLAIMER This video is for educational purposes and is based on personal opinions. This video is not a substitute for professional advice, but for general guidance. Please do not take this feedback as an attack on your character. This video was meant to be a self-improvement guide for those of you who have been feeling a little stuck. We advise you to always listen to your intuition and always do what is right for you. Writer: Chloe Avenasa Script Editor: Rida Batool Script Manager: Kelly Soong VO:: Amanda Silvera Animator: Jonelz Leo (https://www.youtube.com/channel/UClKvC_lsoe1yRmuDt7JhZew) YouTube Manager: Cindy Cheong References: Korunka, C., Tement, S., Zdrehus, C., & Borza, A. (2010). Burnout: Definition, recognition and prevention approaches. Family & Community Health: The Journal of Health Promotion & Maintenance, 43(3), 311-318. American Psychological Association (2013). Diagnostic and Statistical Manual of Mental Disorders – 5th Edition. APA Publishing; Washington, DC. Leiter, M. P., Bakker, A. B., & Maslach, C. (Eds.). (2014). Burnout at work: A psychological perspective. Psychology Press. Greenglass, E., Fiksenbaum, L., & Burke, R. J. (1996). Components of social support, buffering effects and burnout: Implications for psychological functioning. Anxiety, stress, and coping, 9(3), 185-197. Cropanzano, R., Rupp, D. E., & Byrne, Z. S. (2003). The relationship of emotional exhaustion to work attitudes, job performance, and organizational citizenship behaviors. Journal of Applied psychology, 88(1), 160.</media:description>
-<media:community>
-<media:starRating count="16320" average="5.00" min="1" max="5"/>
-<media:statistics views="219196"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:8yVFNnlGYjM</id>
-<yt:videoId>8yVFNnlGYjM</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>5 Signs You're Emotionally Exhausted, Not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=8yVFNnlGYjM"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2022-03-12T00:17:54+00:00</published>
-<updated>2025-01-24T11:26:24+00:00</updated>
-<media:group>
-<media:title>5 Signs You're Emotionally Exhausted, Not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/8yVFNnlGYjM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i1.ytimg.com/vi/8yVFNnlGYjM/hqdefault.jpg" width="480" height="360"/>
-<media:description>Thanks to our sponsor, Fabulous: If you're someone easily tired, start building your ideal daily routine 💪The first 100 people who click on the link will get 25% OFF 🎁 Fabulous Premium ➡️http://thefab.co/psych2go6 That word: Lazy. It’s an insulting and negative trait. It’s a voluntary, purposeful decision to not act - despite being perfectly capable and in favorable circumstances to do so – often for petty and selfish reasons. Emotional exhaustion is not voluntary, it can be disabling and it can’t just be ‘turned off’. It’s one of the signs of burnout, involving your psyche and emotions feeling like a deflated scrapyard tire. How can you tell it’s Emotional Exhaustion? DISCLAIMER: This video is for information and education purposes only. It is partially based on subjective opinion around concepts and is not a personal attack. It does not replace professional diagnoses and guidance. ** Are you burnt out but people dismissed it as laziness? Here are a few signs you're burnt out, not lazy: https://youtu.be/MLuJ249WnkE Writer: Ananya Sawarkar Script Editor: Denise Ding Script Manager: Kelly Soong Voice: Amanda Silvera www.youtube.com/amandasilvera Animator: Sun Biscuit YouTube Manager: Cindy Cheong</media:description>
-<media:community>
-<media:starRating count="20359" average="5.00" min="1" max="5"/>
-<media:statistics views="357459"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:iqedolmcO1w</id>
-<yt:videoId>iqedolmcO1w</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>6 Signs You're Burnt Out, Not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=iqedolmcO1w"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-09-21T08:06:09+00:00</published>
-<updated>2025-01-23T07:30:06+00:00</updated>
-<media:group>
-<media:title>6 Signs You're Burnt Out, Not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/iqedolmcO1w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i2.ytimg.com/vi/iqedolmcO1w/hqdefault.jpg" width="480" height="360"/>
-<media:description>Laziness and burnout aren't always easy to distinguish; burnout is described as "a state of emotional, physical, and mental exhaustion due to chronic stress and an inability to cope with it." Burnout can be masked by a few signs. Here are a few that tell you it's not laziness, but burnout. #burnout #laziness #version3 DISCLAIMER This video is for educational purposes and is based on personal opinions. This video is not a substitute for professional advice, but for general guidance. Please do not take this feedback as an attack on your character. This video was meant to be a self-improvement guide for those of you who have been feeling a little stuck. We advise you to always listen to your intuition and always do what is right for you. Writer: Chloe Avenasa Script Editor: Rida Batool Script Manager: Kelly Soong VO:: Amanda Silvera Animator: Lesly Drue YouTube Manager: Cindy Cheong References: Korunka, C., Tement, S., Zdrehus, C., & Borza, A. (2010). Burnout: Definition, recognition and prevention approaches. Family & Community Health: The Journal of Health Promotion & Maintenance, 43(3), 311-318. American Psychological Association (2013). Diagnostic and Statistical Manual of Mental Disorders – 5th Edition. APA Publishing; Washington, DC. Leiter, M. P., Bakker, A. B., & Maslach, C. (Eds.). (2014). Burnout at work: A psychological perspective. Psychology Press. Greenglass, E., Fiksenbaum, L., & Burke, R. J. (1996). Components of social support, buffering effects and burnout: Implications for psychological functioning. Anxiety, stress, and coping, 9(3), 185-197. Cropanzano, R., Rupp, D. E., & Byrne, Z. S. (2003). The relationship of emotional exhaustion to work attitudes, job performance, and organizational citizenship behaviors. Journal of Applied psychology, 88(1), 160.</media:description>
-<media:community>
-<media:starRating count="27792" average="5.00" min="1" max="5"/>
-<media:statistics views="666992"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:MLuJ249WnkE</id>
-<yt:videoId>MLuJ249WnkE</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>6 Signs You’re Burnt Out, Not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=MLuJ249WnkE"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-07-18T15:55:00+00:00</published>
-<updated>2025-01-24T11:11:31+00:00</updated>
-<media:group>
-<media:title>6 Signs You’re Burnt Out, Not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/MLuJ249WnkE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i2.ytimg.com/vi/MLuJ249WnkE/hqdefault.jpg" width="480" height="360"/>
-<media:description>There’s actually a lot of overlap between laziness and burnout that can make it difficult to differentiate between the two. Burnout is defined as “a negative state of emotional, physical, and mental exhaustion caused by excessive stress and an inability to cope with it.” To educate ourselves and better understand the nature of burnout, especially when we ourselves are at risk, here are a few tell-tale signs that what you’re experiencing right now isn’t actually laziness, but burnout. Have you ever wonder about the differences between burnout and depression? Watch this video: https://youtu.be/bPSHOlvAlm8 DISCLAIMER This video is for educational purposes and is based on personal opinions. This video is not a substitute for professional advice, but for general guidance. Please do not take this feedback as an attack on your character. This video was meant to be a self-improvement guide for those of you who have been feeling a little stuck. We advise you to always listen to your intuition and always do what is right for you. Writer: Chloe Avenasa Script Editor: Rida Batool Script Manager: Kelly Soong VO:: Amanda Silvera Animator: Jonelz Leo (https://www.youtube.com/channel/UClKvC_lsoe1yRmuDt7JhZew) YouTube Manager: Cindy Cheong References: Korunka, C., Tement, S., Zdrehus, C., & Borza, A. (2010). Burnout: Definition, recognition and prevention approaches. Family & Community Health: The Journal of Health Promotion & Maintenance, 43(3), 311-318. American Psychological Association (2013). Diagnostic and Statistical Manual of Mental Disorders – 5th Edition. APA Publishing; Washington, DC. Leiter, M. P., Bakker, A. B., & Maslach, C. (Eds.). (2014). Burnout at work: A psychological perspective. Psychology Press. Greenglass, E., Fiksenbaum, L., & Burke, R. J. (1996). Components of social support, buffering effects and burnout: Implications for psychological functioning. Anxiety, stress, and coping, 9(3), 185-197. Cropanzano, R., Rupp, D. E., & Byrne, Z. S. (2003). The relationship of emotional exhaustion to work attitudes, job performance, and organizational citizenship behaviors. Journal of Applied psychology, 88(1), 160.</media:description>
-<media:community>
-<media:starRating count="789957" average="5.00" min="1" max="5"/>
-<media:statistics views="15865783"/>
-</media:community>
-</media:group>
-</entry>
-<entry>
-<id>yt:video:VMKRsWiTU_c</id>
-<yt:videoId>VMKRsWiTU_c</yt:videoId>
-<yt:channelId>UCkJEpR7JmS36tajD34Gp4VA</yt:channelId>
-<title>Signs You're Mentally Tired, Not Lazy</title>
-<link rel="alternate" href="https://www.youtube.com/watch?v=VMKRsWiTU_c"/>
-<author>
-<name>Psych2Go</name>
-<uri>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</uri>
-</author>
-<published>2021-05-18T14:52:07+00:00</published>
-<updated>2025-01-23T15:56:37+00:00</updated>
-<media:group>
-<media:title>Signs You're Mentally Tired, Not Lazy</media:title>
-<media:content url="https://www.youtube.com/v/VMKRsWiTU_c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
-<media:thumbnail url="https://i3.ytimg.com/vi/VMKRsWiTU_c/hqdefault.jpg" width="480" height="360"/>
-<media:description>You're not lazy. You're just mentally exhausted or burnout. Share this video if you agree. With society becoming more fast-paced and productive, people are starting to normalize the habit of overworking. Because of this, people tend to confuse “mental exhaustion” with “laziness” since they both look similar on the surface level. This video might help you remember why it's important to take a break without feeling guilty. DISCLAIMER: This video is for educational purposes and is based on personal opinions. It is not a substitute for professional advice, but for general guidance. We advise you to always listen to your intuition and always do what is right for you. Writer: Xinyi Liu Script Editor: Isadora Ho Script Manager: Kelly Soong VO: Amanda Silvera Animator: Yussie Feng YouTube Manager: Cindy Cheong References Elevate Counseling. (2020). Emotionally Exhausted: 7 Serious Signs of Burnout That Require Your Immediate Attention. Retrieved 15 April 2021, from https://www.elevatecounseling.com/blog/emotionally-exhausted-7-serious-signs-of-burnout-that-require-your-immediate-attention Grohol, J. (2018). Am I Depressed or Just Lazy?. Retrieved 15 April 2021, from https://psychcentral.com/blog/am-i-depressed-or-just-lazy#1 IDSMED. (2019). 8 Signs You’re Mentally and Emotionally Exhausted. Retrieved 15 April 2021, from https://www.idsmed.com/news/8-signs-youre-mentally-and-emotionally-exhausted_400.html Risher, B. (2021). 9 Signs You’re Mentally Exhausted — And How to Bounce Back. Retrieved 15 April 2021, from https://www.fatherly.com/love-money/mentally-exhausted-signs/ Join this channel to get access to perks: https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA/join Would you like to animate for the team? Check out this: https://psych2go.net/interested-in-animating-for-pych2go-faq/ Interested in writing for psych2go? Check out: https://psych2go.net/script-writing-position-faqs/</media:description>
-<media:community>
-<media:starRating count="20371" average="5.00" min="1" max="5"/>
-<media:statistics views="284671"/>
-</media:community>
-</media:group>
-</entry>
-</feed>
+<rss version="2.0"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:gml="http://www.opengis.net/gml"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>MRSS Feed</title>
+        <description>My MRSS Feed</description>
+        <link>https://youtube.com</link>
+        <atom:link href="https://www.youtube.com/playlist?list=PLD4cyJhQaFwWCnpIHdHwZwzEKeoPwlA3I" rel="self" type="application/rss+xml" />
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1819011417004440081</link>
+            <pubDate>
+                <![CDATA[Sat, 21 Dec 2024 01:27:49 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1819011417004440081</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/15a9e70b-1697-4dc2-8932-ddd7368a6caf/10s/master.m3u8?fastly_token=Njk4OGNmMDRfYzA2MGJiNDJkZDhhNTYyOTVhNDcyNWYwMjIwMjRlMDNiYjQ5Y2ViMTU4OGU2MTFkNjNiMWZmYWQzNjMzZGNiMA%3D%3D" type="video/quicktime" medium="video" duration="14.08" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1819011417004440081"/>
+            <title>
+                <![CDATA[Remove one person from component.]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/15a9e70b-1697-4dc2-8932-ddd7368a6caf/main/160x90/7s40ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1816449985923614496</link>
+            <pubDate>
+                <![CDATA[Fri, 22 Nov 2024 18:54:58 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1816449985923614496</guid>
+            <media:content url="https://fastly.live.brightcove.com/1816449985923614496/us-east-1/1752604059001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZDdyeW93LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiMTc1MjYwNDA1OTAwMSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTc1MjYwNDA1OTAwMSJdLCJqdGkiOiIxODE2NDQ5OTg1OTIzNjE0NDk2In0.yxbvqhT06hY_mKGZKMDoX47nHpkRFigApyE5faX_s-w/playlist-hls.m3u8" type="video/quicktime" medium="video" duration="0" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1816449985923614496"/>
+            <title>
+                <![CDATA[BCLS Job Metrics]]>
+            </title>
+            <description>
+                <![CDATA[Blive Job]]>
+            </description>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1816268118639390082</link>
+            <pubDate>
+                <![CDATA[Wed, 20 Nov 2024 18:44:16 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1816268118639390082</guid>
+            <media:content url="https://fastly.live.brightcove.com/1816268118639390082/us-east-1/1752604059001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZDdyeW93LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiMTc1MjYwNDA1OTAwMSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTc1MjYwNDA1OTAwMSJdLCJqdGkiOiIxODE2MjY4MTE4NjM5MzkwMDgyIn0.bdg5DG001G7cT6x_TJZ-o2ycCS9sGd6wiqJmSo53JCI/playlist-hls.m3u8" type="video/quicktime" medium="video" duration="-0.001" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1816268118639390082"/>
+            <title>
+                <![CDATA[Live Event Test]]>
+            </title>
+            <description>
+                <![CDATA[Live Event Test]]>
+            </description>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1815089015249890171</link>
+            <pubDate>
+                <![CDATA[Thu, 07 Nov 2024 18:22:55 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1815089015249890171</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/993b4d2e-0c27-49e1-a9f4-0edd388e7a5b/10s/master.m3u8?fastly_token=Njk4OGNmMThfZmJjYmU0MjM4ODA4MTFjMjYzZjMxNTU1OWY3N2UxMjEyOTU5MmExYjc5ZWUwMTBjMmU1N2I1YzQxZWEzODM0Yg%3D%3D" type="video/quicktime" medium="video" duration="30.617" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1815089015249890171"/>
+            <title>
+                <![CDATA[People Widget]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/993b4d2e-0c27-49e1-a9f4-0edd388e7a5b/main/160x90/15s308ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1813179710869239477</link>
+            <pubDate>
+                <![CDATA[Thu, 17 Oct 2024 16:35:21 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1813179710869239477</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/f22b25ac-117e-4605-997c-56103ee7a318/10s/master.m3u8?fastly_token=Njk4OGNmZjBfMDhkZmZiNGIwNTU3MzZjYWY0YTliN2IwNGI2ZmViNWZjMjk5OThmMjMzZmI1ZTE0YTJmNjM3MzM3MDdiOTM1Zg%3D%3D" type="video/quicktime" medium="video" duration="215.979" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1813179710869239477"/>
+            <title>
+                <![CDATA[Navigating Video Cloud Studio]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/f22b25ac-117e-4605-997c-56103ee7a318/main/160x90/1m47s989ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1813004333199906787</link>
+            <pubDate>
+                <![CDATA[Tue, 15 Oct 2024 18:07:48 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1813004333199906787</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/fa359ebd-f82f-48ab-ad48-884d8075583b/10s/master.m3u8?fastly_token=Njk4OGNmYTZfMDA3Njc5MzBjNTUyZmMzNTJmMWQ1ZjE0ZmRlOTQxY2Q0MTBkNGQzMWVmMmEzZGUyOTRiMWVlOGVhZjVmZmZiZg%3D%3D" type="video/quicktime" medium="video" duration="152.152" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1813004333199906787"/>
+            <title>
+                <![CDATA[EarthSample]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/fa359ebd-f82f-48ab-ad48-884d8075583b/main/160x90/1m16s76ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1810092524478236460</link>
+            <pubDate>
+                <![CDATA[Fri, 13 Sep 2024 14:45:50 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1810092524478236460</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/0a650365-4b1f-4782-abec-2a25ce441adf/10s/master.m3u8?fastly_token=Njk4OGNmYTZfY2Y4YjgxNWEwYTkwY2RlODBhNDczMzY1ZTQwMjI5OGRjZDc3OGY2NTE3ZTgxNTE4NmQ1Y2VjODJiYTllN2MxNg%3D%3D" type="video/quicktime" medium="video" duration="152.171" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1810092524478236460"/>
+            <title>
+                <![CDATA[Search updates]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/0a650365-4b1f-4782-abec-2a25ce441adf/main/160x90/1m16s85ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=5393799457001</link>
+            <pubDate>
+                <![CDATA[Tue, 11 Apr 2017 13:47:32 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">5393799457001</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/9ab99f9a-fb29-4e15-9902-5e6f7dde53f1/10s/master.m3u8?fastly_token=Njk4OGNmMDBfODE1NmE0Y2NkNmE4MzBiNjJhZTNkZTA0YzZlNTE1OGIzOGFjNzQ3MTFjNmY2MWYwNTRkMDk4OGYxNmFhMjNhNw%3D%3D" type="video/quicktime" medium="video" duration="9.4" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=5393799457001"/>
+            <title>
+                <![CDATA[Lionfish]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/9ab99f9a-fb29-4e15-9902-5e6f7dde53f1/83328164-043c-4605-9a2e-789126286a48/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=6008592337001</link>
+            <pubDate>
+                <![CDATA[Thu, 28 Feb 2019 21:21:04 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">6008592337001</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/e36d1896-131f-4841-b84f-5800ba1f2614/10s/master.m3u8?fastly_token=Njk4OGNmMDZfYmNkZDI4MGQ3NGU4ZjQ2YWUxYmJlM2JiZmVjNDYyMzdjNDg5MDc2YWE0Y2YzOTYwYmNhZDk1MTc4MDVjZTkyYw%3D%3D" type="video/quicktime" medium="video" duration="15.511" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=6008592337001"/>
+            <title>
+                <![CDATA[Sunset Oregon Coast with EN, DE, ES and FR Captions]]>
+            </title>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/e36d1896-131f-4841-b84f-5800ba1f2614/590971d6-dde4-4bf9-8f47-0e7cafcf0370/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1793345684832719666</link>
+            <pubDate>
+                <![CDATA[Tue, 12 Mar 2024 18:30:54 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1793345684832719666</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/bfeda63c-d2aa-48d4-a569-93438ed72bcd/10s/master.m3u8?fastly_token=Njk4OGNmZTRfZjg5MGY5MGQ2NTM3M2M0YjJmYmJmNjdhMzMzM2E5ZWI3ZmRlMjgxODhhNDIxODFlNjdmMmYxMjEyMzg1MWY0Mg%3D%3D" type="video/quicktime" medium="video" duration="205.248" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1793345684832719666"/>
+            <title>
+                <![CDATA[Brightcove Video Editor - Welcome to the Editor]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/bfeda63c-d2aa-48d4-a569-93438ed72bcd/main/160x90/1m42s624ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1793345697875916467</link>
+            <pubDate>
+                <![CDATA[Tue, 12 Mar 2024 18:32:12 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1793345697875916467</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/0ad29e14-03ec-4575-bdff-bf88814038a5/10s/master.m3u8?fastly_token=Njk4OGQwZTNfMTljOWI4NWU2NDE0ZjdiYzNhMzI2ZGQwNTYyZjQ0Y2JkYmEzZTQyNzFhNDE1NWRlZDk0MDMxMWQzNjBhODM5NA%3D%3D" type="video/quicktime" medium="video" duration="423.573" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1793345697875916467"/>
+            <title>
+                <![CDATA[Brightcove Video Editor - Editing an existing Video]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/0ad29e14-03ec-4575-bdff-bf88814038a5/main/160x90/3m31s786ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1793345692188394880</link>
+            <pubDate>
+                <![CDATA[Tue, 12 Mar 2024 18:31:55 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1793345692188394880</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/13a1f3ea-88d5-41eb-8c07-2139e6396ad8/10s/master.m3u8?fastly_token=Njk4OGQwNzlfMjUxM2VhMWE2MTZiZWRlNGFhZjliODVkZTRjMDYyN2FhMWQ5YjllMGFjN2RjOTIwMTMyNzEwM2U3MWE2MjY3Yw%3D%3D" type="video/quicktime" medium="video" duration="332.267" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1793345692188394880"/>
+            <title>
+                <![CDATA[Brightcove Video Editor - Using a template]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/13a1f3ea-88d5-41eb-8c07-2139e6396ad8/main/160x90/2m46s133ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1758993139110842632</link>
+            <pubDate>
+                <![CDATA[Mon, 27 Feb 2023 14:02:59 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1758993139110842632</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/126edb02-8311-4880-9b45-97b417a8bdab/10s/master.m3u8?fastly_token=Njk4OGQ2MDJfODU3MmFmMzM2YmRhZTlhMDZlN2ZmYjU5YWZlZGMxNzQwNzQyZDIyMjZiYTgyZDRmMjdlNmNiN2FlOTE3ODFhNQ%3D%3D" type="video/quicktime" medium="video" duration="1547.371" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1758993139110842632"/>
+            <title>
+                <![CDATA[Shopify - Train the Trainer]]>
+            </title>
+            <description>
+                <![CDATA[Shopify demo video - model for the one we need to create for SEs]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/126edb02-8311-4880-9b45-97b417a8bdab/321326a0-bed0-4d12-b43e-6c4e9a029633/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1748592722756578280</link>
+            <pubDate>
+                <![CDATA[Fri, 04 Nov 2022 18:52:49 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1748592722756578280</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/d29a759a-fd20-450c-b2d5-dfeec386f97c/10s/master.m3u8?fastly_token=Njk4OGNmYjVfNjUwZmE3YTUyYTRmZDRiNzM2YWFkZWY1YTMwMWU0Y2U0ODZjMDkxN2E5NTJkZjcyYWE3ZTIzMjc0YTlhODE1Yg%3D%3D" type="video/quicktime" medium="video" duration="164.629" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1748592722756578280"/>
+            <title>
+                <![CDATA[Can't Get Away (feat. Emma Lundin)]]>
+            </title>
+            <description>
+                <![CDATA[Ibrahin Cuevas Remix by Seuto, OutaMatic]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/d29a759a-fd20-450c-b2d5-dfeec386f97c/a10fc3ce-635a-4c0f-9398-4b4b0f705b26/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1775033541888667562</link>
+            <pubDate>
+                <![CDATA[Wed, 23 Aug 2023 15:18:19 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1775033541888667562</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/6c740291-327d-405e-b372-443898ae4bd6/10s/master.m3u8?fastly_token=Njk4OGNmMTJfYWZkNzUxZGQxYmQyM2ZkMWUxYzIzOGM0NGU1NWFlNjEzYzVhNGFmZmI5ZTFmMDhiZmJhNzI5ZDYwYTcyODJkZg%3D%3D" type="video/quicktime" medium="video" duration="24.52" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1775033541888667562"/>
+            <title>
+                <![CDATA[girl play guitar teacher]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/6c740291-327d-405e-b372-443898ae4bd6/main/160x90/12s260ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=4093643993001</link>
+            <pubDate>
+                <![CDATA[Mon, 17 Jul 2023 21:04:26 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">4093643993001</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/80ac0e88-5d74-4023-b5ea-77b2c8c54e47/10s/master.m3u8?fastly_token=Njk4OGNmMTdfZTU2NDZlOWRhMzdkNTVmMWJkYWIwMmI5ZDBmNDUwN2JhZDE1ODA1MDczNDQ1YjMxODBkNzlmY2RiN2RkZDAxZg%3D%3D" type="video/quicktime" medium="video" duration="29.217" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=4093643993001"/>
+            <title>
+                <![CDATA[Tiger]]>
+            </title>
+            <description>
+                <![CDATA[Tigress and her cub]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/80ac0e88-5d74-4023-b5ea-77b2c8c54e47/main/160x90/14s608ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1754276205001</link>
+            <pubDate>
+                <![CDATA[Wed, 25 Jul 2012 20:30:53 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1754276205001</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/8b10aff1-eb80-46f2-a3d8-4d266b4f7de8/10s/master.m3u8?fastly_token=Njk4OGNmMThfYTFhMjk0NTM4ZmI1YjNiZjk0ZjMxMjc5ZTgxOTdlZTMxZjIxNzU0ODYyYTljYmE0NmQxMTczYjBlMmFiZDg0Mg%3D%3D" type="video/quicktime" medium="video" duration="30.047" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1754276205001"/>
+            <title>
+                <![CDATA[Sea-SeaTurtle]]>
+            </title>
+            <description>
+                <![CDATA[Sea-SeaTurtle]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/8b10aff1-eb80-46f2-a3d8-4d266b4f7de8/c77a3bf9-a7ec-48d2-8e3c-851cfaa8f9c7/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1742506883733597163</link>
+            <pubDate>
+                <![CDATA[Mon, 29 Aug 2022 14:41:01 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1742506883733597163</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/5fa528a8-7fde-4bed-b4e7-67251c94eaa5/10s/master.m3u8?fastly_token=Njk4OGQ1OWFfMzBiMzY1M2RmYjAwMjQ5ZmRlMTc2NWExYzJlMjBiZTNhMjgyZWZjNzczZTRjMmM3ZmVkYWUwZjI4NWI4YzQ0ZA%3D%3D" type="video/quicktime" medium="video" duration="1456.811" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1742506883733597163"/>
+            <title>
+                <![CDATA[Nutanix]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/5fa528a8-7fde-4bed-b4e7-67251c94eaa5/41a39274-34fc-42f7-a3da-ba56baf1837a/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1744068114862043765</link>
+            <pubDate>
+                <![CDATA[Thu, 15 Sep 2022 20:16:07 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1744068114862043765</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/7c7567d4-aa50-4305-8e4b-eb89086aeb56/10s/master.m3u8?fastly_token=Njk4OGNlZmNfNDhjYWVlYTc5Yjg4ZGEwNzI1MDNmN2I5ZDliZjJmNGY4OTFlNzI2MzFiMjBiOWU3ZGIwNWE0Zjc3NDBiMTVjZA%3D%3D" type="video/quicktime" medium="video" duration="5.234" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1744068114862043765"/>
+            <title>
+                <![CDATA[Aquamarine Ocean]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/7c7567d4-aa50-4305-8e4b-eb89086aeb56/b0d91366-fa6c-439b-89a8-8fd9a2bbdc25/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1742506884036771664</link>
+            <pubDate>
+                <![CDATA[Mon, 29 Aug 2022 14:41:01 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1742506884036771664</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/90b740b4-f106-4624-aafd-06858b6289bf/10s/master.m3u8?fastly_token=Njk4OGNmNGFfZjQxOWQyNzFhOTM3OGFkNzRhMWZjMmJlNTg0ZjA0NWUyYzNkYWFkZjhjN2MyZmE2NzZlNWVmMDk4N2M0ZmRkMw%3D%3D" type="video/quicktime" medium="video" duration="71.701" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1742506884036771664"/>
+            <title>
+                <![CDATA[Accessibility Sample]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/90b740b4-f106-4624-aafd-06858b6289bf/ba9c560c-2c6b-4183-a823-d3db0e75312c/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1771966271954350707</link>
+            <pubDate>
+                <![CDATA[Thu, 20 Jul 2023 18:45:23 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1771966271954350707</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/acce8807-f694-4010-9db8-1e3aba148a67/10s/master.m3u8?fastly_token=Njk4OGNmMGZfYjRjZGQ3YzNhODkxMzkzMDkyNzZjNmJiMDYzNDlkYWI4MGY0YjNlNTE0YjZmMzU1YTY2ZGMzNThiMTQ3ODk1ZA%3D%3D" type="video/quicktime" medium="video" duration="21.78" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1771966271954350707"/>
+            <title>
+                <![CDATA[Video Details UI_sample video]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/1752604059001/acce8807-f694-4010-9db8-1e3aba148a67/main/160x90/10s890ms/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1695519781693651859</link>
+            <pubDate>
+                <![CDATA[Wed, 05 Apr 2023 13:58:40 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1695519781693651859</guid>
+            <media:content url="https://manifest.prod.boltdns.net/manifest/v2/hls/v7/clear/hvc1_mp4a/57838016001/48854446-36ca-4c35-ad2c-7a69ee494bfa/10s/master.m3u8?fastly_token=NjdjYzc2MDZfYTdkZTJlZmRkMjk4YzczOTA0YzJkMThiMzZmNGRiNjM2MjhlNjVlMjg0YzMyNzM0MjcyMDlhNGJkZWQxNjhlMg%3D%3D&amp;pubid=1752604059001" type="video/quicktime" medium="video" duration="41.259" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1695519781693651859"/>
+            <title>
+                <![CDATA[Great black Owl]]>
+            </title>
+            <description>
+                <![CDATA[Updated at: 2021-03-28T21:07:42.638Z]]>
+            </description>
+            <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/jit/57838016001/48854446-36ca-4c35-ad2c-7a69ee494bfa/main/160x90/20s629ms/match/image.jpg?pubId=1752604059001"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1695853266973208750</link>
+            <pubDate>
+                <![CDATA[Wed, 05 Apr 2023 13:58:40 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1695853266973208750</guid>
+            <media:content url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/57838016001/7cb05acf-d31f-4007-9dc5-221e4c80cd1a/10s/master.m3u8?fastly_token=NjdjYzc2MDZfMThhY2EwOWM3YTZkMzEyZDY2ZDIxZjI3MTIzY2NkY2FkMDhhYjhhY2I1YTFhMzUwYzMzYjE2OWUwZTYwZmQxMg%3D%3D&amp;pubid=1752604059001" type="video/quicktime" medium="video" duration="41.259" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1695853266973208750"/>
+            <title>
+                <![CDATA[Great Horned Owl]]>
+            </title>
+            <description>
+                <![CDATA[Mother and child owls...]]>
+            </description>
+            <media:thumbnail url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/57838016001/7cb05acf-d31f-4007-9dc5-221e4c80cd1a/b17b834b-e3ee-4800-9dcf-30c64e7842f1/160x90/match/image.jpg?pubId=1752604059001"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1762345704933448059</link>
+            <pubDate>
+                <![CDATA[Mon, 17 Jul 2023 16:33:04 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">1762345704933448059</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/4a7c8693-a8a7-4d33-92b4-f59491fe0c8c/10s/master.m3u8?fastly_token=Njk4OGNlZmJfNTQ1ZWIwNWRmYWM3NjMyZDY1YWViNTNhZmVkYWY5NWIwNWI5NTE0OWZlZTI0MjZmNzFlZDI4YmY0ZjgzYTgzZQ%3D%3D" type="video/quicktime" medium="video" duration="4.667" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=1762345704933448059"/>
+            <title>
+                <![CDATA[Lightning-Utrecht.m4v]]>
+            </title>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/4a7c8693-a8a7-4d33-92b4-f59491fe0c8c/a4f1fa76-99d4-4b06-9ebe-268088ab26c1/160x90/match/image.jpg"/>
+        </item>
+        <item>
+            <link>https://players.brightcove.net/1752604059001/default_default/index.html?videoId=4077874637001</link>
+            <pubDate>
+                <![CDATA[Tue, 24 Feb 2015 15:15:10 GMT]]>
+            </pubDate>
+            <guid isPermaLink="false">4077874637001</guid>
+            <media:content url="http://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/1752604059001/40387627-f7c0-4f9e-a1c6-a94d3164f81a/10s/master.m3u8?fastly_token=Njk4OGNmMDBfOGMyZTk3NzVhYjNjNjdjMzAzMWY2OTg3MDhhZTQ2NDU4NWY2MDI4NGIyOThjNzgyYjMzMmY4MmUyNTFkNDc5Zg%3D%3D" type="video/quicktime" medium="video" duration="8.242" isDefault="true" />
+            <media:player url="https://players.brightcove.net/1752604059001/default_default/index.html?videoId=4077874637001"/>
+            <title>
+                <![CDATA[short-video]]>
+            </title>
+            <description>
+                <![CDATA[null]]>
+            </description>
+            <media:thumbnail url="https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1752604059001/40387627-f7c0-4f9e-a1c6-a94d3164f81a/c829eb02-f7e3-4853-85ea-d50dab4b0501/160x90/match/image.jpg"/>
+        </item>
+    </channel>
+</rss>
