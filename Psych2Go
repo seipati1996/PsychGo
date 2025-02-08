@@ -1,14 +1,1 @@
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-  <channel>
-    <title>Your YouTube Channel</title>
-    <link>https://www.youtube.com/channel/UCkJEpR7JmS36tajD34Gp4VA</link>
-    <description>Your channel description</description>
-    <item>
-      <title>Video Title</title>
-      <link>https://www.youtube.com/watch?v=VIDEO_ID</link>
-      <description>Video description</description>
-      <media:content url="https://www.youtube.com/watch?v=VIDEO_ID" type="video/mp4"/>
-      <media:thumbnail url="https://img.youtube.com/vi/VIDEO_ID/0.jpg"/>
-    </item>
-  </channel>
-</rss>
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLD4cyJhQaFwWCnpIHdHwZwzEKeoPwlA3I
